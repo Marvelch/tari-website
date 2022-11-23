@@ -1,0 +1,18 @@
+li {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.search {
+    position: absolute;
+    left: 80%;
+    top: 0px;
+}
+
+.carousel { 
+    height: 150%;
+}
+
+.carousel > img {
+    width: 100%;
+}
